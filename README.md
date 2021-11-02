@@ -1,3 +1,3 @@
 # revolution
 
-This is a example repositories :)
+This is an example repositories :)
