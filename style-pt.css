@@ -7,6 +7,8 @@
     align-items: center;
     -webkit-justify-content: center;
     justify-content: center;
-    background: purple;
-    color: white;
-}
+    color: black;
+    background-image: url(https://ak.picdn.net/shutterstock/videos/28418404/thumb/12.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
